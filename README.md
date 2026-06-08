@@ -153,7 +153,3 @@ GitHub:
 https://github.com/mukuuund  
 
 ---
-
-## Acknowledgment
-
-This project was completed as part of the Microsoft Elevate AICTE Internship Program.
